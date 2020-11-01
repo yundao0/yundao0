@@ -31,6 +31,7 @@ typedef struct {
 
      swaddr_t eip;
 	
+	
 } CPU_state;
 
 extern CPU_state cpu;
