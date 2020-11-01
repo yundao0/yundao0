@@ -32,6 +32,6 @@
 #include "call/call.h"
 #include "data-mov/push.h"
 #include "logic/test.h"
-#include "return/je.h"
+#include "jump/je.h"
 #include "arith/cmp.h"
 #include "data-mov/pop.h"
