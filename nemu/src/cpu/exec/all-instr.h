@@ -36,3 +36,4 @@
 #include "arith/cmp.h"
 #include "data-mov/pop.h"
 #include "return/ret.h"
+#include "arith/sub.h"
