@@ -51,3 +51,4 @@
 #include "string/scas.h"
 #include "arith/sbb.h"
 #include "string/stos.h"
+#include "string/movs.h"
