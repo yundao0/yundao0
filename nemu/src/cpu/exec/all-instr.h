@@ -47,3 +47,4 @@
 #include "jump/jg.h"
 #include "jump/jl.h"
 #include "jump/jge.h"
+#include "string/lods.h"
