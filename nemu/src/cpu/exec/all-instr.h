@@ -48,3 +48,4 @@
 #include "jump/jl.h"
 #include "jump/jge.h"
 #include "string/lods.h"
+#include "string/scas.h"
