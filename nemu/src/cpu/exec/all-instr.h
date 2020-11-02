@@ -54,4 +54,5 @@
 #include "string/movs.h"
 #include "jump/ja.h"
 #include "jump/js.h"
+#include "jump/jns.h"
 
