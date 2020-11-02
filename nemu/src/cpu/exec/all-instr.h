@@ -49,3 +49,4 @@
 #include "jump/jge.h"
 #include "string/lods.h"
 #include "string/scas.h"
+#include "arith/sbb.h"
