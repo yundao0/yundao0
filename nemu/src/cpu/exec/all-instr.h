@@ -44,4 +44,4 @@
 #include "logic/setne.h"
 #include "jump/jne.h"
 #include "jump/jle.h"
-
+#include "jump/jg.h"
