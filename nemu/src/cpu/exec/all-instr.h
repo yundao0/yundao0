@@ -40,3 +40,4 @@
 #include "jump/jmp.h"
 #include "jump/jbe.h"
 #include "arith/add.h"
+#include "arith/adc.h"
