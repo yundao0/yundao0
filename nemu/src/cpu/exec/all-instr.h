@@ -39,3 +39,4 @@
 #include "arith/sub.h"
 #include "jump/jmp.h"
 #include "jump/jbe.h"
+#include "arith/add.h"
