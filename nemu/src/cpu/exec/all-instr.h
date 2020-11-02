@@ -43,3 +43,5 @@
 #include "arith/adc.h"
 #include "logic/setne.h"
 #include "jump/jne.h"
+#include "jump/jle.h"
+
