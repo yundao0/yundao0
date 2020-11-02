@@ -50,3 +50,4 @@
 #include "string/lods.h"
 #include "string/scas.h"
 #include "arith/sbb.h"
+#include "string/stos.h"
