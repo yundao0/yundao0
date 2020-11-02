@@ -53,7 +53,7 @@ clean: clean-cpp
 
 ##### some convinient rules #####
 
-USERPROG := obj/testcase/src/add-longlong.c
+USERPROG := obj/testcase/src/add-longlong
 ENTRY := $(USERPROG)
 
 entry: $(ENTRY)
